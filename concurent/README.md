@@ -1,0 +1,3 @@
+A feladat egy bázis létrehozása volt. A megoldás során külön szálakon kellet a Peasantokat létrehozni, illetve az épületeket felépíteni. Az épületek csak akkor tudtak elkezdeni épülni, mikor elég nyersanyagot bányásztak, illetve rendelkezésre áll szabad peasant. Ha felépült a kellő mennyiségű épület, illetve mindenki befejezte a munkát, akkor véget ért a program futása.
+A megoldás nem tartalmaz komplexebb java megoldásokat, több szál együttműködésének megoldása volt a fő cél.
+A program vázát előre megkaptuk, a párhuzamos futást kezelő osztályokat kellett nekünk implementálni. Vagyis csak a Base.java, illetve a Peasant.java a saját szellemi termékem.
