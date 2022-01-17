@@ -1,0 +1,6 @@
+4
+Seta l 9
+Csuszo s 9
+Siklo s 10
+Vandor h 6
+nfffenn
